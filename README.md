@@ -1,4 +1,4 @@
-# CSharp_Condicionais If
+# CSharp_Condicionais com OU "||", E "&&", TRUE e FALSE.
 
 Olá, seja muito bem vinda(o)!
 
